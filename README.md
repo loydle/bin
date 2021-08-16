@@ -31,4 +31,17 @@ Gobuster is a tool used to brute-force:
 ```bash
 # Enumerate list of open endpoints
 $ gobuster dir -k -u <url> -w <wordlist.txt>
-``` 
+```
+
+# backup-manager-cli 
+
+https://github.com/loydle/backup-manager-cli
+
+Backup and archive any file or folder with one command.
+
+## usage
+`$ backup [file_name] [dir_name] ...` 
+
+`$ backup -m`
+ 
+`$ backup -l` 
