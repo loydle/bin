@@ -1,14 +1,20 @@
 # List of tools and usage
 
+## Install
+
+- `$ git clone git@github.com:loydle/bin.git`
+-  add bin folder to $PATH
+
+
 ## gobuster
 
 https://github.com/OJ/gobuster
-	Gobuster is a tool used to brute-force:
 
-	- URIs (directories and files) in web sites.
-	- DNS subdomains (with wildcard support).
-	- Virtual Host names on target web servers.
-	- Open Amazon S3 buckets
+Gobuster is a tool used to brute-force:
+- URIs (directories and files) in web sites.
+- DNS subdomains (with wildcard support).
+- Virtual Host names on target web servers.
+- Open Amazon S3 buckets
 
 ### usage
 
