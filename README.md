@@ -6,6 +6,16 @@
 -  add bin folder to $PATH
 
 
+## gitty
+
+https://github.com/loydle/gitty-cli
+
+ Add, Commit and push changes in one command! :sparkles:
+
+### usage
+
+`$ gitty` or `$ gitty [message]`
+
 ## gobuster
 
 https://github.com/OJ/gobuster
