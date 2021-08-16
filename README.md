@@ -1,5 +1,11 @@
 # List of tools and usage
 
+## Install
+
+- `$ git clone git@github.com:loydle/bin.git`
+-  add bin folder to $PATH
+
+
 ## gobuster
 
 https://github.com/OJ/gobuster
